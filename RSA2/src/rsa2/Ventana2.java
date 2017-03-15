@@ -122,7 +122,7 @@ public class Ventana2 extends javax.swing.JFrame {
     private void jButton1ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton1ActionPerformed
         try{
             
-          
+            System.out.println("Hola mundo");
             Encriptacion e= new Encriptacion();
             String a="";
             String s="";

@@ -1,8 +1,4 @@
-﻿/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
+
 package rsa2;
 
 import java.util.ArrayList;
@@ -12,7 +8,8 @@ import java.util.ArrayList;
  * @author agarcia
  */
 public class Encriptacion {
-//ozzze
+    //ozzze
+    //viva la guitarrita y el flamenquito
     long p,q,e,n,d,fn,c;
     int priv[]=new int[2],pub[]=new int[2];
     char[] alfabeto={' ','a','b','c','d','e','f','g','h','i','j','k','l','m','n','ñ','o','p','q','r','s','t','u','v','w','x','y','z',' ','0','1','2','3','4','5','6','7','8','9','.',',',':',';'};

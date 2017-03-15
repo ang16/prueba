@@ -132,6 +132,11 @@ public class Ventana2 extends javax.swing.JFrame {
             System.out.println("Hola mundo8");
             System.out.println("Hola mundo9");
             System.out.println("Hola mundo10");
+            System.out.println("Hola mundo11");
+            System.out.println("Hola mundo12");
+            System.out.println("Hola mundo13");
+            System.out.println("Hola mundo14");
+            System.out.println("Hola mundo15");
             Encriptacion e= new Encriptacion();
             String a="";
             String s="";
